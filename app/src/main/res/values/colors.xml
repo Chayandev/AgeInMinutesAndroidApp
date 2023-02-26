@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="skyBlue_200">#8ecae6</color>
+    <color name="skyBlue">#219ebc</color>
+    <color name="DarkBlue">#023047</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="BodyClr">#a8dadc</color>
+    <color name="TextClr">#e76f51</color>
+    <color name="AgeBg">#2a9d8f</color>
+    <color name="AgeClr">#264653</color>
+    <color name="btn">#e9c46a</color>
+    <color name="btntTxtClr">#666666</color>
+    <color name="gray">#889696</color>
+<!--    <color name="BodyClr">#a8dadc</color>-->
+</resources>
